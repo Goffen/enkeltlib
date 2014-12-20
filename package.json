@@ -1,0 +1,21 @@
+{
+  "name": "enkeltlib",
+  "version": "0.0.0",
+  "description": "Gör en sak",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodeunit test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Goffen/enkeltlib.git"
+  },
+  "keywords": [
+    "enkel"
+  ],
+  "author": "hannes",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/Goffen/enkeltlib/issues"
+  }
+}
